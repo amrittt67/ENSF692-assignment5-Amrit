@@ -23,7 +23,7 @@ MAC/Linux
 * Make sure you are working in the correct directory
 * `export FLASK_ENV=development`
 * `export FLASK_APP=web_data_app.py`
-* `=`
+* `flask run`
 
 Windows
 * Make sure you are working in the correct directory
